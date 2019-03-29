@@ -1,0 +1,2 @@
+# BSQ
+Fill map algorythm
